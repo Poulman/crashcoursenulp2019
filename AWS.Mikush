@@ -1,0 +1,25 @@
+                                    AWS
+____________________________________________________________________________________
+                  https://eu-central-1.console.aws.amazon.com/
+		  ec2-54-93-231-115.eu-central-1.compute.amazonaws.com
+ System information as of Mon Dec  2 16:18:24 UTC 2019
+
+  System load:  0.29              Users logged in:                0
+  Usage of /:   40.1% of 7.69GB   IP address for eth0:            172.31.47.213
+  Memory usage: 22%               IP address for docker0:         172.17.0.1
+  Swap usage:   0%                IP address for docker_gwbridge: 172.18.0.1
+  Processes:    98
+
+
+sudo docker images
+REPOSITORY             TAG                 IMAGE ID            CREATED             SIZE
+hello-world            latest              57c42f218d25        6 hours ago         188MB
+218591/ubuntu-nodejs   latest              79d509b69347        5 days ago          1.84kB
+root/ubuntu-nodejs     latest              79d509b69347        5 days ago          1.84kB
+ubuntu                 18.04               775349758637        4 weeks ago         64.2MB
+ubuntu                 latest              775349758637        4 weeks ago         64.2MB
+hello-world            <none>              fce289e99eb9        11 months ago       1.84kB
+seqvence/static-site   latest              f589ccde7957        3 years ago         191MB
+
+
+
